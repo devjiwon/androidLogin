@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="facebook_app_key">457460661451551</string>
+    <string name="kakao_app_key">2ac42658fcffbd520507d2478c46ed69</string>
+</resources>
